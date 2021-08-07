@@ -1,1 +1,4 @@
-# Indoor-outdoor_detection_with_barometer
+# BaroDetector
+
+This is a research about #BaroDetector: Building-Level Location Track using Smartwatch.
+
